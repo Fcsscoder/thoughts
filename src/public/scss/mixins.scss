@@ -1,0 +1,9 @@
+@mixin flash-message {
+    padding: 1em;
+    color: #fff;
+    background-color: transparent;
+    border-radius: 5px;
+    text-align: center;
+    margin: 0 auto 2em;
+    max-width: 60%;
+}

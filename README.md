@@ -7,8 +7,7 @@
     <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" alt="SASS">
 </p>
 
-
-#<h1 align="center">Thoughts</h1>
+<h1 align="center">Thoughts</h1>
 
 **Thoughts** é uma aplicação web projetada para que usuários possam compartilhar seus pensamentos com outros, criando um espaço interativo e envolvente para discussões e reflexões pessoais. O aplicativo oferece funcionalidades robustas para a gestão de pensamentos e contas de usuário.
 

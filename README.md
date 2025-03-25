@@ -9,7 +9,9 @@
 
 <h1 align="center">Thoughts</h1>
 
-**Thoughts** é uma aplicação web projetada para que usuários possam compartilhar seus pensamentos com outros, criando um espaço interativo e envolvente para discussões e reflexões pessoais. O aplicativo oferece funcionalidades robustas para a gestão de pensamentos e contas de usuário.
+<p align="center">
+    Thoughts é uma aplicação web projetada para que usuários possam compartilhar seus pensamentos com outros, criando um espaço interativo e envolvente para discussões e reflexões pessoais. O aplicativo oferece funcionalidades robustas para a gestão de pensamentos e contas de usuário.
+</p>
 
 https://github.com/user-attachments/assets/8460a0d2-14de-4b1b-b244-bbf6a3d34b35
 
